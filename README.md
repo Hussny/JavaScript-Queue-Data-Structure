@@ -29,10 +29,10 @@ JavaScript Queue Data Structure
 <h1> operations on the queue.</h1>
 <h3>Adding an element in the list:</h3> 
 <code style="color:red;">
-const q = new myQueue():<br>
-q.add(1);<br>
-q.add(2);<br>
-q.add(3);<br>
-console.log(q);<br>
+<p>const myq = new myQueue():<br>
+<p>myq.add(1); </p>
+<p>myq.add(2); </p>
+<p>myq.add(3); </p>
+<p>console.log(myq);</p>
 </code> 
 
