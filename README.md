@@ -27,12 +27,36 @@ JavaScript Queue Data Structure
  <br> 
  
 <h1> operations on the queue.</h1>
-<h3>Adding an element in the list:</h3> 
-<code style="color:red;">
+<h3>Adding an element in the Queue:</h3> 
+
+<code>
 <p>const myq = new myQueue():<br>
 <p>myq.add(1); </p>
 <p>myq.add(2); </p>
 <p>myq.add(3); </p>
 <p>console.log(myq);</p>
 </code> 
+
+<h3>Getting the first & the last element in the Queue:</h3> 
+<code>
+<p>console.log(q.first());</p>
+
+<p>console.log(q.last());</p>
+</code>
+
+<h3>Renoving an element in the Queue:</h3>
+<code>
+<p>myq.remove();</p>
+<p>console.log(myq);</p>
+</code>
+
+<h3> And the last method call size;</h3>
+<code>
+<p>console.log(q.size())
+ </p>
+
+
+<h2>Rememeber these are not in built methods.</h2>
+
+
 
