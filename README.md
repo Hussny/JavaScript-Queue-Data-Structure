@@ -11,8 +11,8 @@ JavaScript Queue Data Structure
 <p>2). Front is also called head </p>
 
 
-<p> This behavior, where the element which was added first is deleted first is called <b> FIFO  (First in First Out)</b></p>
+<p> This behavior, where the element which was added first is deleted first is called <b> FIFO  (First in First Out)</b> </p>
 
-<h2> The image below shows a simple real world example, People (Human Being)  on a queue,  let say customers in a bank queue the customer who entered first will be served  first </p>
+<p> The image below shows a simple real world example, People (Human Being)  on a queue,  let say customers in a bank queue the customer who entered first will be served  first </p>
 
 ![queue](https://github.com/HarunHM/JavaScript-Queue-Data-Structure/blob/master/queue.png)
