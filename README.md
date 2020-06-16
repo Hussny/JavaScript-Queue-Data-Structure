@@ -52,7 +52,7 @@ JavaScript Queue Data Structure
 
 <h3> And the last method call size;</h3>
 <code>
-<p>console.log(q.size())
+<p>console.log(myq.size())
  </p>
 
 
