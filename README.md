@@ -21,7 +21,7 @@ JavaScript Queue Data Structure
 <p> JavaScript queue is not different from the above example element are added at the rear and removed at the front<p>
   
  <h1> Code </h1>
- ![Preview](https://github.com/HarunHM/JavaScript-Queue-Data-Structure/blob/master/Screenshot%20from%202020-06-16%2018-05-37.png "Title")
+ ![Preview](https://github.com/HarunHM/JavaScript-Queue-Data-Structure/blob/master/Screenshot%20from%202020-06-16%2018-05-37.png)
  
  <br> 
  
