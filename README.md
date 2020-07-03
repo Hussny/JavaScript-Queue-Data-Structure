@@ -44,6 +44,9 @@ JavaScript Queue Data Structure
 <p>console.log(q.last());</p>
 </code>
 
+
+Remember you can implement queue using array and use array methods such as push to perform some operation in queues
+
 <h3>Renoving an element in the Queue:</h3>
 <code>
 <p>myq.remove();</p>
